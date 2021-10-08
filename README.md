@@ -1,11 +1,13 @@
-# autoware.ai.openplanner
+# OpenPlanner 2.5
 The workspace for directly downloading and installing Autoware.AI versions with the latest OpenPlanner 2.5 updates
 
-# Autoware.AI help and Installation Guide, [Autoware.AI](https://github.com/Autoware-AI/autoware.ai/wiki/Source-Build)
+## Videos and Tutorials for OpenPlanner. [YouTube](https://youtu.be/86K95RY0Iqk)
+
+## Installation and build with specific Autoware relase and OpenPlanner updates. 
+
+Autoware.AI help and Installation Guide, [Autoware.AI](https://github.com/Autoware-AI/autoware.ai/wiki/Source-Build)
  - Follow the main dependecies installation 
  - For How to build, follow the following instructions below
-
-# Installation and build with specific Autoware relase and OpenPlanner updates. 
 
 System dependencies for Ubuntu 18.04 / Melodic
 ```
@@ -48,12 +50,12 @@ or
 $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
 ```
 
-# Utilities files: 
+## Utilities files: 
 - op.rviz config file for visualizing OpenPlanner topics
 - setup_op_repo_branch.sh file to automatically switch to OpenPlanner.1.13 or OpenPlanner.1.15 from original Autoware.AI
 - pull_from_branch.sh pulls all repo updates from certain branch for (common, core_planning, core_perception, utilities)
 
-# Research Papers
+## Research Papers
 - Darweesh, Hatem, Eijiro Takeuchi, and Kazuya Takeda."OpenPlanner 2.0: The Portable Open Source Planner for Autonomous Driving Applications." 2021 IEEE Intelligent Vehicles Symposium Workshops (IV Workshop). July 11-17, 2021. Nagoya, Japan.
 
 - Darweesh, Hatem, Eijiro Takeuchi, Kazuya Takeda, Yoshiki Ninomiya, Adi Sujiwo, Luis Yoichi Morales, Naoki Akai, Tetsuo Tomizawa, and Shinpei Kato. "Open source integrated planner for autonomous navigation in highly dynamic environments." [Journal of Robotics and Mechatronics 29, no. 4](https://www.fujipress.jp/jrm/rb/robot002900040668/) (2017): 668-684.
