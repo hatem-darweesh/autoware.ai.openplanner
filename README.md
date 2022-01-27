@@ -50,6 +50,10 @@ or
 $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
 ```
 
+## Important Note: 
+Cuda 11.1 and cudnn 8 is required for building op_tlr. This node is a custome traffic light detector for CARLA Simulator. 
+Just remove the node to avoide any build issue. 
+
 ## Utilities files: 
 - op.rviz config file for visualizing OpenPlanner topics
 - setup_op_repo_branch.sh file to automatically switch to OpenPlanner.1.13 or OpenPlanner.1.15 from original Autoware.AI
