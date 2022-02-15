@@ -60,7 +60,7 @@ Just remove the node to avoide any build issue.
 - pull_from_branch.sh pulls all repo updates from certain branch for (common, core_planning, core_perception, utilities)
 
 ## Research Papers
-- Darweesh, Hatem, Eijiro Takeuchi, and Kazuya Takeda."OpenPlanner 2.0: The Portable Open Source Planner for Autonomous Driving Applications." 2021 IEEE Intelligent Vehicles Symposium Workshops (IV Workshop). July 11-17, 2021. Nagoya, Japan.
+- Darweesh, Hatem, Eijiro Takeuchi, and Kazuya Takeda."OpenPlanner 2.0: The Portable Open Source Planner for Autonomous Driving Applications." [2021 IEEE Intelligent Vehicles Symposium Workshops (IV Workshop)](https://ieeexplore.ieee.org/document/9669253). July 11-17, 2021. Nagoya, Japan.
 
 - Darweesh, Hatem, Eijiro Takeuchi, Kazuya Takeda, Yoshiki Ninomiya, Adi Sujiwo, Luis Yoichi Morales, Naoki Akai, Tetsuo Tomizawa, and Shinpei Kato. "Open source integrated planner for autonomous navigation in highly dynamic environments." [Journal of Robotics and Mechatronics 29, no. 4](https://www.fujipress.jp/jrm/rb/robot002900040668/) (2017): 668-684.
 
