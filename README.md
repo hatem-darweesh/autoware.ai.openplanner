@@ -1,4 +1,6 @@
 # OpenPlanner 2.5
+![OpenPlanner_Presentation](https://github.com/user-attachments/assets/72d4329b-af7a-4555-a8a7-964b016aa64a)
+
 The workspace for directly downloading and installing Autoware.AI versions with the latest OpenPlanner 2.5 updates
 
 ## Videos and Tutorials for OpenPlanner. [YouTube](https://youtu.be/86K95RY0Iqk)
